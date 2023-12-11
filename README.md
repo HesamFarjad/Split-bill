@@ -28,6 +28,8 @@ This application is a practical tool for managing shared expenses and simplifyin
 https://youtu.be/TKbffeOCd_U
 
 #React #WebDevelopment #ExpenseManagement #JavaScript #ReactHooks #CodeSnippet
-<img width="1440" alt="Screenshot 2023-12-11 at 14 29 29" src="https://github.com/HesamFarjad/Split-bill/assets/81914229/3def3dcf-992f-4c31-8048-33a35ffbd831">
-<img width="1440" alt="Screenshot 2023-12-11 at 14 29 06" src="https://github.com/HesamFarjad/Split-bill/assets/81914229/6bbcc87a-194d-43c5-aec2-6c143df29375">
 <img width="1439" alt="Screenshot 2023-12-11 at 14 28 55" src="https://github.com/HesamFarjad/Split-bill/assets/81914229/ce8383e5-6578-418f-a301-246bc3325f8c">
+<img width="1440" alt="Screenshot 2023-12-11 at 14 29 06" src="https://github.com/HesamFarjad/Split-bill/assets/81914229/6bbcc87a-194d-43c5-aec2-6c143df29375">
+<img width="1440" alt="Screenshot 2023-12-11 at 14 29 29" src="https://github.com/HesamFarjad/Split-bill/assets/81914229/3def3dcf-992f-4c31-8048-33a35ffbd831">
+
+
